@@ -1,0 +1,28 @@
+html, body {
+    background-color: rgb(245, 216, 236);
+}
+
+.kwadrat {
+    width: 100px;
+    height: 100px;
+    background: black;
+    margin-bottom: 10px;
+    margin-left: auto;
+margin-right: auto;
+}
+
+.square1 { 
+opacity: 1; 
+}
+
+.square2 {
+opacity: 0.8; 
+}
+
+.square3 {
+  opacity: 0.5; 
+} 
+
+.square4 {
+   opacity: 0.2; 
+ } 
